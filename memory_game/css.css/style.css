@@ -4,6 +4,7 @@ h1 {
 	font-size: 45px;
 	font-weight: 400;
 	margin: 0;
+	/*title of Site */
 }
 
 header {
@@ -21,6 +22,7 @@ nav {
 	color: white;
 	padding: 20px 0px;
 	border-bottom: 2px solid transparent;
+	/*anchors*/
 }
 
 a {
@@ -32,6 +34,7 @@ a {
 	display: inline-block;
 	margin: 0px 20px;
 	color: white;
+	/*instructions and game*/
 }
 
 a:hover {
@@ -44,6 +47,7 @@ h2 {
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 20px;
+	/*these are the instructions to the game*/
 }
 
 div {
@@ -54,6 +58,7 @@ p {
 	font-family: "Droid Serif", serif;
 	line-height: 26px;
 	font-size: 18px;
+	/*description of game*/
 }
 
 body {
@@ -71,6 +76,7 @@ footer {
 	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
+	/*copyright section with GA*/
 }
 
 .copyright {
